@@ -1,0 +1,9 @@
+*.pyc
+*.csv
+*.tgz
+*.log
+*.egg-info
+*.pkl
+*.pickle
+docs/_*
+*cache
